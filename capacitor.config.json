@@ -1,0 +1,9 @@
+{
+  "appId": "com.chezmw.app",
+  "appName": "CHEZMW",
+  "webDir": "public",
+  "server": {
+    "url": "https://chezmw.com",
+    "cleartext": false
+  }
+}

@@ -1,0 +1,49 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ChezMoi logo">
+  <defs>
+    <linearGradient id="roofBlue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0c7ce7"/>
+      <stop offset="100%" stop-color="#0d4fda"/>
+    </linearGradient>
+    <linearGradient id="orangeGlow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffbf1a"/>
+      <stop offset="100%" stop-color="#ff6a00"/>
+    </linearGradient>
+    <linearGradient id="textBlue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#1d8df3"/>
+      <stop offset="100%" stop-color="#0d5ec7"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(90 20)">
+    <path d="M190 190 L470 50 L745 190 L744 420 L490 565 L239 420 Z" fill="url(#roofBlue)" opacity="0.96"/>
+    <path d="M210 206 L470 84 L728 206 L728 412 L468 544 L227 412 Z" fill="none" stroke="#0d5ec7" stroke-width="18" opacity="0.75"/>
+
+    <path d="M223 406 Q350 310 470 170 Q592 310 744 406 L744 412 L498 518 L470 534 L440 518 L195 412 Z" fill="url(#roofBlue)"/>
+
+    <path d="M286 274 Q410 335 470 390 Q528 335 646 274" fill="none" stroke="#ffdb3a" stroke-width="12" stroke-linecap="round" stroke-dasharray="0 0" opacity="0.6"/>
+
+    <path d="M174 286 C220 235, 273 170, 327 210 C360 236, 356 291, 318 316 C280 341, 252 352, 183 321 C154 307, 153 294, 174 286 Z" fill="url(#orangeGlow)" opacity="0.9"/>
+    <path d="M705 242 C771 221, 827 258, 830 316 C834 395, 782 442, 732 447 C673 453, 623 412, 621 357 C619 307, 654 266, 705 242 Z" fill="url(#orangeGlow)" opacity="0.9"/>
+
+    <g>
+      <path d="M452 288 Q392 245 357 282 Q322 328 352 376 Q380 422 451 464 Q522 422 550 376 Q580 328 545 282 Q510 245 452 288 Z" fill="#ffffff" opacity="0.98"/>
+      <path d="M450 310 C407 267, 377 295, 392 335 C404 366, 429 388, 450 402 C470 388, 496 366, 508 335 C522 295, 493 267, 450 310 Z" fill="url(#orangeGlow)" opacity="0.94"/>
+      <path d="M436 316 L448 330 L460 347 L470 260 C470 250 478 243 488 243 C497 242 505 248 507 257 L523 322 L540 317 L523 392 C520 445 498 466 468 474 L449 474 L427 467 C382 452 354 422 353 381 C352 334 388 308 436 316 Z" fill="#ffffff" opacity="0.96"/>
+      <path d="M495 314 L506 331 L517 349 L532 263 C534 255 542 249 551 249 C560 249 567 255 570 264 L586 332 L603 327 L585 399 C580 450 549 478 514 488 L505 489 L481 483 C442 471 417 443 413 399 C408 353 439 322 495 314 Z" fill="#ffffff" opacity="0.96"/>
+      <path d="M468 448 L471 386 L509 386 L509 442 Z" fill="#ffffff" opacity="0.9"/>
+      <path d="M456 303 L469 289 L484 303 L470 341 L458 332 Z" fill="#ffffff" opacity="0.95"/>
+      <path d="M531 303 L544 289 L559 303 L545 341 L533 332 Z" fill="#ffffff" opacity="0.95"/>
+      <path d="M442 238 L454 254 L466 271 L480 238 L477 214 L444 214 Z" fill="#ffffff" opacity="0.95"/>
+    </g>
+
+    <g transform="translate(430 150)">
+      <path d="M0 0 L18 28 L38 0 L64 0 L64 46 L29 82 L0 82 L0 0 Z" fill="#16a34a"/>
+      <circle cx="32" cy="31" r="14" fill="#16a34a"/>
+      <path d="M32 19 L42 31 L32 43 L22 31 Z" fill="#ffffff"/>
+    </g>
+  </g>
+
+  <g transform="translate(80 565)">
+    <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="175" letter-spacing="-8" fill="url(#textBlue)">ChezMoi</text>
+  </g>
+</svg>
