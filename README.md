@@ -81,9 +81,40 @@ Open the local URL displayed in your terminal.
 * Use environment variables for private configuration.
 * Review configuration files before publishing the repository.
 
-## Project Status
+## Project Screenshots
 
-ChezMoi is a completed project. The repository documents its source code and setup process.
+### Homepage
+
+![ChezMoi homepage](screenshots/home.png)
+
+### Property Listings
+
+![ChezMoi property listings](screenshots/bailleur.png)
+
+### Property Details
+
+![ChezMoi property details](screenshots/search.png)
+
+### Property Search and Filters
+
+![ChezMoi property search and filters](screenshots/search.png)
+
+### Owner Dashboard
+
+![ChezMoi owner dashboard](screenshots/locataire.png)
+
+### Administrator Dashboard
+
+![ChezMoi administrator dashboard](screenshots/admin.png)
+
+### login
+
+![ChezMoi administrator dashboard](screenshots/login.png)
+
+### register
+
+![ChezMoi administrator dashboard](screenshots/register.png)
+
 
 ## Author
 
