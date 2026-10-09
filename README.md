@@ -32,7 +32,7 @@ ChezMoi is a real estate web application developed with Laravel. The project is 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Fulbert-Dev/ChezMoi.git
+   git clone https://github.com/Fulbert-Dev/ChezMw.git
    cd ChezMoi
    ```
 
